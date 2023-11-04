@@ -1,6 +1,4 @@
-# CarWhiz
-Car Recommendation bot 
-
+## CarWhiz
 # Car Recommendation Web Application with GenAI, LLM, and OpenAI API
 
 Welcome to our Car Recommendation Web Application! This application utilizes GenAI, LLM (Large Language Models), and the OpenAI API to provide personalized car recommendations. In addition, we have integrated a chatbot to enhance the user experience.
