@@ -24,7 +24,7 @@ Follow these steps to get the application up and running on your local machine.
 1. Clone the repository:
 
    
-   git clone [https://github.com/yourusername/car-recommendation-app.git](https://github.com/Shravan44s/CarWhiz.git)
+   git clone [https://github.com/Shravan44s/CarWhiz.git]
    
 
 2. Install the required software dependencies:
