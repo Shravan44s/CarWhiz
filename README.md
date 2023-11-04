@@ -3,6 +3,13 @@
 
 Welcome to our Car Recommendation Web Application! This application utilizes GenAI, LLM (Large Language Models), and the OpenAI API to provide personalized car recommendations. In addition, we have integrated a chatbot to enhance the user experience.
 
+
+## Flow
+![diagram-export-05-11-2023-01_49_37](https://github.com/Shravan44s/CarWhiz/assets/107493136/be64e9b7-d981-4ae3-862c-96437426dc42)
+
+![diagram-export-05-11-2023-01_44_23](https://github.com/Shravan44s/CarWhiz/assets/107493136/e1d423b3-9cbf-41e4-be7d-46abd5531286)
+
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
@@ -56,7 +63,7 @@ To run this application, you will need the following software:
 - MySQL: An open-source relational database management system.
 - XAMPP: A web server solution that includes Apache, MySQL, and PHP for local development.
 - OpenAI API Key: Obtain an API key from OpenAI and configure it in the application to access their services.
-- # Replace the API Key from palmbot.js { const API_KEY = "[YOUR_API_KEY"]; }
+- ### Replace the API Key from palmbot.js -> const API_KEY = "[YOUR_API_KEY"]; 
   
 
 Make sure to have these software components and the OpenAI API key installed and configured correctly before setting up the application.
